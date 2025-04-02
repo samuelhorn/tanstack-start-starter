@@ -1,6 +1,6 @@
 # Tanstack Start Starter
 
-Minimal custom Tanstack Start starter to use for repidly creating Tanstack Start apps.
+Minimal custom Tanstack Start starter for rapidly creating Tanstack Start apps.
 
 ## Included
 
